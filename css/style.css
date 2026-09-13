@@ -27,7 +27,26 @@ h3 {
   font-size: 1.25rem;
   color: #2f4a3d;
 }
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+h2 {
+  margin-bottom: 8px;
+}
+
+p {
+  margin-bottom: 32px;
+}
 
 p {
   font-size: 1rem;
+}
+footer {
+  text-align: center;
+  font-size: 0.875rem;
+  color: #666666;
+  padding: 20px;
 }
